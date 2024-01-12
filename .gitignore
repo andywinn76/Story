@@ -1,3 +1,4 @@
 secrets.txt
 
 #This is a comment
+# Use *.txt to add all .txt files to ignore.
